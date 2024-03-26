@@ -1,0 +1,24 @@
+.footerContainer{
+    background-color: rgb(225, 164, 91);
+    margin-top: 100px;
+}
+.footerIcons{
+    display: flex;
+    justify-content:center;
+    padding-top: 30px;
+    gap: 30px;   
+}
+.footerNav ul{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding-top: 30px;
+}
+.footerBottom{
+    display: flex;
+    padding-top: 10px;
+    justify-content: center;
+    background-color: rgb(234, 135, 14);
+    padding-bottom: 10px;
+    margin-top: 50px;
+}

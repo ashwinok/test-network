@@ -1,0 +1,105 @@
+/* .login-body {
+    /* height: 100vh; */
+    /* background: liner-gradient(rgb(228, 118, 0),rgb(227, 189, 0)); */
+    /* background-color: rgb(235, 159, 97,0.4);  */
+    /* background: linear-gradient(to right, #95776a, #ffe1aa); */
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 80px;
+    /* margin-left: 80px; */
+    background-color: white;
+    padding-bottom: 0px;
+    width: 430px;
+    border: 2px solid black;
+    border-radius: 25px;
+}
+.header {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 30px;
+}
+.text {
+    color: #f3a03b;
+    font-size: 35px;
+    font-weight: 600;
+}
+.inputs {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.input {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 350px;
+    height: 40px;
+    background-color: rgb(209, 209, 209);
+    border-radius: 6px;
+    padding: 20px;
+}
+
+.input input {
+    background: transparent;
+    border: none;
+    outline: none;
+    margin-left: 20px;
+}
+.forgot {
+    padding-top: 10px;
+    padding-left: 49px;
+    color: gray;
+    /* border: 1px solid black; */
+    width: 350px;
+    height: 40px;
+}
+.forgot span {
+    cursor: pointer;
+    color: #f3a03b;
+}
+.submit-container {
+    display: flex;
+    margin: 0px auto;
+    margin-top: 90px;
+    margin-bottom: 20px;
+    gap: 70px;
+}
+.submit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 140px;
+    height: 40px;
+    color: #fff;
+    background-color: #f3a03b;
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.final-submit {
+    display: flex;
+    justify-content:space-around;
+    margin-top: 40px;
+    border: 1px solid black;
+    width: 170px;
+    height: 40px;
+    align-items: center;
+    margin-left: 135px;
+    color: black;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.final-submit:hover {
+    background-color: rgb(255, 85, 0);
+    color: white;
+    border: none;
+}
+.gray {
+    background-color: #EAEAEA;
+    color: #676767;
+}

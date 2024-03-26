@@ -1,0 +1,29 @@
+.ques{
+    height: auto;
+    width: 95%;
+    /* border: 2px solid black; */
+    margin: 40px 0px;
+    margin-left: 10px;
+    /* padding: 5px 15px; */
+}
+.ques h1{
+    font-size: 48px;
+    font-weight: 700;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(27, 27, 27);
+}
+.ques .heading1 {
+    font-size: 26px;
+    font-weight: 400;
+}
+.ques .heading2 {
+    font-size: 21px;
+    font-weight: 500;
+}
+.ques p{
+    font-size: 18px;
+}
+.ques .end {
+    font-size: 22px;
+    font-weight: 400;
+}

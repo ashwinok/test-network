@@ -1,0 +1,14 @@
+.main-course-cont {
+    background: linear-gradient(45deg, #5f2903, #ff9951);
+
+}
+.course-cont{
+    display: grid;
+    /* flex-direction: row; */
+    /* flex-wrap: wrap; */
+    gap: 20px;
+    padding: 20px;
+    grid-template-columns: repeat(4, 1fr);
+    /* background: linear-gradient(45deg, #5f2903, #ff9951); */
+    /* background-color: brown; */
+}
